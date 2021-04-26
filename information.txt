@@ -1,0 +1,1 @@
+I am taking 9 rows(9 element with space in each row) input from user so that we could have 9X9 matrix. Then this algorithm will give the solution of this sudoku.
